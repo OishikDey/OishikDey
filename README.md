@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OishikDey
 - 👀 I’m interested in Artificial Intelligence & Machine Learning
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Dafny (https://dafny.org/)
 - 💞️ I’m looking to collaborate on anything :D
 - 📫 How to reach me: https://www.linkedin.com/in/oishikdey/
 
