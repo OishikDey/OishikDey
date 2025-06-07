@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ferry Booking System<br><br>🌱 I’m currently learning Node.js, OpenCV, Pytorch<br><br>👨‍💻 All of my projects are available at www.oishikdey.com<br><br>💬 Ask me about Python<br><br>📫 How to reach me oishikdey91@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1OxKwtKjUywpYONhNA-1Y9lFXhitBPbkU/view?usp=sharing
+🔭 I’m currently working on Ferry Booking System<br><br>🌱 I’m currently learning Node.js, OpenCV, Pytorch<br><br>👨‍💻 All of my projects are available at www.oishikdey.com<br><br>💬 Ask me about Python<br><br>📫 Reach me through email or LinkedIn!<br><br>
 
 
 ## 🌐 Socials:
