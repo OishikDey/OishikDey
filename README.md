@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ferry Booking System<br><br>🌱 I’m currently learning Node.js, OpenCV, Pytorch<br><br>👨‍💻 All of my projects are available at www.oishikdey.com<br><br>💬 Ask me about Python<br><br>📫 Reach me through email or LinkedIn!<br><br>
+I’m a passionate Computer Engineering student with a strong interest in embedded systems, software development, and smart technology. I enjoy building practical, real-world projects that integrate hardware and software, from automation with Raspberry Pi to full-stack web applications. I’m always eager to learn, solve problems, and collaborate on innovative tech solutions that make an impact.
 
 
 ## 🌐 Socials:
